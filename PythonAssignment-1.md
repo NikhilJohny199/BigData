@@ -11,19 +11,16 @@ Q3. List some pros and cons of Python programming language?
 
 Ans - 
 
-----------
-Pros
-----------
-
+-Pros-
 dynamically typed language
 interpreted language
 vast libraries
 open source
 portability
 
-----------
-Cons
-----------
+
+-Cons-
+
 
 slower compared to other languages like C,C++
 Bad language for mobile development
